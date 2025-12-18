@@ -63,7 +63,7 @@ A comprehensive, responsive weather application built with vanilla HTML, CSS, an
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Ayokanmi-Adejola/Weather-App
+git clone https://github.com/Abdullah-Sanomads/weatherview-fm.git
 ```
 
 2. Navigate to the project directory
