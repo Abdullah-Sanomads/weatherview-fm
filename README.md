@@ -11,8 +11,8 @@ A comprehensive, responsive weather application built with vanilla HTML, CSS, an
 
 ### Links
 
-- 🔗 **Live Site:** [View Demo](#)
-- 💻 **Solution:** [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/)
+- 🔗 **Live Site:** [View Demo](https://weatherview-fm.vercel.app/)
+- 💻 **Solution:** [Frontend Mentor Solution](http://frontendmentor.io/solutions/weatherview-fm-TYa-ZCZCnt)
 - 📦 **Repository:** [GitHub Repo](https://github.com/Abdullah-Sanomads/weatherview-fm.git)
 
 ## ✨ Features
